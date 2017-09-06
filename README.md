@@ -87,7 +87,7 @@ Students may get free pravite gihub access and other development tools. Request 
 
 `*` Assessments of analysis of other teams
 
-In addition, $2^{max(n - 3, 0)}$ points will be deducted from the final weighted score, where $n$ is the number of absences. (Note: the probability of attendance check has positive correlation with absence )
+In addition, $2^{max(n - 3, 0)}$ points will be deducted from the final weighted score, where $n$ is the number of absences. (Note: the probability of attendance check has positive correlation with absence ratio of the class, i.e., ratio of the number of (roughly estimated absent student) to the total class size)
 
 ### Letter grades _(Subject to change)_
 
@@ -99,10 +99,6 @@ In addition, $2^{max(n - 3, 0)}$ points will be deducted from the final weighted
 |  < 50 |   D   |
 | if needed | F |
 
-## Other policies
-
-You may bring your notebook or tables during
-
 ## Chatting and Plagiarism
 
 Each student is required to finish all the assignments by his/her own, and each project team should finish their term project on their own.
@@ -110,4 +106,8 @@ Each student is required to finish all the assignments by his/her own, and each 
 Although students are allowed and encouraged to discuss general topics, the following behaviors are STRICTLY forbidden.
 - Discussing specific approaches for assignments
 - Sharing codes for assignments
-- Submitting someone else's analysis as a proposal/
+- Submitting someone else's analysis as a proposal
+
+## Other policies
+
+You may bring and use your notebook or tablet during the class. But the use of digital devices should be limited to course materials (e.g., lecture notes, code execution).
