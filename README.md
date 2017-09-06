@@ -34,6 +34,8 @@ The following courses are recommended to be taken before/after taking this cours
 - Algorithms
 - (Optional) Computer Systems
 
+## Course Schedule
+
 ## Course materials
 
 ### (Unofficial) textbooks
